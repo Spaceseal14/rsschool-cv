@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Spaceseal1410.github.io/rsschool-cv/cv
+https://Spaceseal14.github.io/rsschool-cv/cv
