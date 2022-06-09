@@ -32,6 +32,9 @@ function multiply(a, b){
 }
 ```
 
+## Courses
+- RS Schools Course «JavaScript/Front-end. Stage 0» (_in progress_)
+
 ## Education
 - Orel State University
   - Foreign Regional Studies (Profile: European Studies)
